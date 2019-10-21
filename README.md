@@ -1,0 +1,2 @@
+# FindeMinMax
+Min Max finden
